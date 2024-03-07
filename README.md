@@ -1,5 +1,34 @@
 # Getting Started with Create React App
 
+
+# deployment link - https://koinx-assesment-frontend-2.vercel.app/
+
+
+# Koinx Frontend Assesment
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+
+## Features
+
+- List key features of your project.
+- Real-Time Updates
+- User-Friendly Interface
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
