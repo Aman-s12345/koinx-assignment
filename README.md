@@ -32,7 +32,9 @@
 ## Introduction
 
 
-Welcome to our cutting-edge cryptocurrency platform, where we seamlessly integrate design elegance with real-time data for an unparalleled user experience. Our website is meticulously crafted to incorporate the latest trends and functionalities, ensuring that you stay ahead in the dynamic world of digital assets..
+Welcome to our cutting-edge cryptocurrency platform, where we seamlessly integrate design elegance with real-time data for an unparalleled user experience. Our website is meticulously crafted to incorporate the latest trends and functionalities, ensuring that you stay ahead in the dynamic world of digital assets.
+
+## Top 3 Trending Coin (24h)
 
 ![Main Page](image/img_2.png)
 
@@ -42,6 +44,7 @@ The front-end of the platform is built using ReactJS, which allows for the creat
 
 
 ![Main Page](image/img_3.png)
+## You may also like page
 
 ![Main Page](image/img_4.png)
 
